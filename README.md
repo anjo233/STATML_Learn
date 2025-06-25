@@ -37,6 +37,11 @@ We are currently in the process of cleaning up and standardizing all tutorials f
 - **Topics**: Bayesian inference for classification, Laplace approximation, predictive distributions, uncertainty quantification, prior specification
 - **Application**: Quantifying classification uncertainty for Red Clump vs Red Giant Branch stars with parameter uncertainty propagation
 
+### Chapter 10: Principal Component Analysis
+- **File**: `tutorial_chapter10.ipynb`
+- **Topics**: Principal Component Analysis, Singular Value Decomposition, eigendecomposition, dimensionality reduction, variance analysis, image reconstruction
+- **Application**: Analyzing galaxy morphology from Hyper Suprime-Cam images to identify fundamental patterns of variation and achieve efficient data compression
+
 ### Chapter 11: K-means and Gaussian Mixture Models
 - **File**: `tutorial_chapter11.ipynb`
 - **Topics**: K-means clustering, K-means++ initialization, Gaussian Mixture Models, Expectation-Maximization algorithm, model selection with AIC/BIC
