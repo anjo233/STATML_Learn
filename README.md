@@ -9,12 +9,12 @@ These tutorials provide hands-on, practical implementations of the concepts cove
 ## Tutorials
 
 ### Chapter 2: Probability Distributions and Cluster Detection
-- **File**: `Tutorial_2_Probability_Distributions_and_Cluster_Detection.ipynb`
+- **File**: `tutorial_chapter2.ipynb`
 - **Topics**: Probability distributions, Poisson processes, maximum likelihood estimation, spatial statistics
 - **Application**: Detecting stellar clusters through statistical analysis of spatial point patterns
 
 ### Chapter 3: Baryon Acoustic Oscillation Detection
-- **File**: `Tutorial_3_Baryon_Acoustic_Oscillation_Detection.ipynb`
+- **File**: `tutorial_chapter3.ipynb`
 - **Topics**: Statistical moments, correlation functions, bootstrap methods, two-point statistics
 - **Application**: Detecting the BAO signal in simulated cosmological data
 
