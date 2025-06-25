@@ -23,6 +23,11 @@ These tutorials provide hands-on, practical implementations of the concepts cove
 - **Topics**: Logistic regression, sigmoid transformation, gradient descent optimization, classification metrics, hyperparameter tuning
 - **Application**: Distinguishing Red Clump from Red Giant Branch stars using stellar parameters from APOGEE
 
+### Chapter 9: Bayesian Logistic Regression
+- **File**: `tutorial_chapter9.ipynb`
+- **Topics**: Bayesian inference for classification, Laplace approximation, predictive distributions, uncertainty quantification, prior specification
+- **Application**: Quantifying classification uncertainty for Red Clump vs Red Giant Branch stars with parameter uncertainty propagation
+
 ## Prerequisites
 
 To run these tutorials, you'll need:
