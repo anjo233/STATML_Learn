@@ -12,7 +12,7 @@ We are currently in the process of cleaning up and standardizing all tutorials f
 
 ## Available Tutorials
 
-### Chapter 2a: Probabilistic Distribution
+### Chapter 2: Probabilistic Distribution
 - **File**: `tutorial_chapter2.ipynb`
 - **Topics**: Probability distributions, Poisson processes, maximum likelihood estimation, spatial statistics
 - **Application**: Detecting stellar clusters through statistical analysis of spatial point patterns
@@ -21,6 +21,11 @@ We are currently in the process of cleaning up and standardizing all tutorials f
 - **File**: `tutorial_chapter3.ipynb`
 - **Topics**: Statistical moments, correlation functions, bootstrap methods, two-point statistics
 - **Application**: Detecting the Baryon Acoustic Oscillation signal in simulated cosmological data
+
+### Chapter 4: Linear Regression
+- **File**: `tutorial_chapter4.ipynb`
+- **Topics**: Maximum likelihood estimation for linear regression, regularization (L2/Ridge regression), feature engineering with basis functions, model evaluation with train/test splits
+- **Application**: Predicting stellar properties from APOGEE infrared spectra
 
 ### Chapter 7: Classification and Logistic Regression
 - **File**: `tutorial_chapter7.ipynb`
