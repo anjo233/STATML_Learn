@@ -16,7 +16,7 @@ These tutorials provide hands-on, practical implementations of the concepts cove
 ### Chapter 3: Statistical Foundations and Summary Statistics
 - **File**: `tutorial_chapter3.ipynb`
 - **Topics**: Statistical moments, correlation functions, bootstrap methods, two-point statistics
-- **Application**: Detecting the BAO signal in simulated cosmological data
+- **Application**: Detecting the Baryon Acoustic Oscillation signal in simulated cosmological data
 
 ### Chapter 7: Classification and Logistic Regression
 - **File**: `tutorial_chapter7.ipynb`
