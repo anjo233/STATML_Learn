@@ -6,7 +6,11 @@ This repository contains companion tutorials for the textbook **[Statistical Mac
 
 These tutorials provide hands-on, practical implementations of the concepts covered in the textbook. Each tutorial is designed as a standalone Jupyter notebook that explores key statistical and machine learning concepts through real astronomical applications.
 
-## Tutorials
+## Tutorial Status
+
+We are currently in the process of cleaning up and standardizing all tutorials from the textbook. The tutorials listed below have been fully revised and are ready for use. Additional tutorials will be added as they are completed.
+
+## Available Tutorials
 
 ### Chapter 2a: Probabilistic Distribution
 - **File**: `tutorial_chapter2.ipynb`
