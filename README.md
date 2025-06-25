@@ -18,6 +18,11 @@ These tutorials provide hands-on, practical implementations of the concepts cove
 - **Topics**: Statistical moments, correlation functions, bootstrap methods, two-point statistics
 - **Application**: Detecting the BAO signal in simulated cosmological data
 
+### Chapter 7: Classification and Logistic Regression
+- **File**: `tutorial_chapter7.ipynb`
+- **Topics**: Logistic regression, sigmoid transformation, gradient descent optimization, classification metrics, hyperparameter tuning
+- **Application**: Distinguishing Red Clump from Red Giant Branch stars using stellar parameters from APOGEE
+
 ## Prerequisites
 
 To run these tutorials, you'll need:
