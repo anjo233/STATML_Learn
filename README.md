@@ -8,7 +8,7 @@ These tutorials provide hands-on, practical implementations of the concepts cove
 
 ## Tutorial Status
 
-We are currently in the process of cleaning up and standardizing all tutorials from the textbook. The tutorials listed below have been fully revised and are ready for use. Additional tutorials will be added as they are completed.
+We are currently in the process of cleaning up and standardizing all tutorials. The tutorials listed below have been fully revised and are ready for use. Additional tutorials will be added as they are completed.
 
 ## Available Tutorials
 
