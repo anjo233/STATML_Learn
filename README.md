@@ -42,6 +42,11 @@ We are currently in the process of cleaning up and standardizing all tutorials f
 - **Topics**: Inverse transform sampling, rejection sampling, importance sampling, Monte Carlo integration, effective sample size
 - **Application**: Generating realistic stellar populations using the Kroupa Initial Mass Function and estimating population properties
 
+### Chapter 13: Markov Chain Monte Carlo
+- **File**: `tutorial_chapter13.ipynb`
+- **Topics**: Metropolis-Hastings algorithm, Gibbs sampling, convergence diagnostics (Geweke and Gelman-Rubin tests), autocorrelation analysis, effective sample size, proposal tuning, burn-in and thinning
+
+
 ## Prerequisites
 
 To run these tutorials, you'll need:
