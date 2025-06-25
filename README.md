@@ -42,11 +42,11 @@ The tutorials are designed to be worked through sequentially within each noteboo
 If you find these tutorials useful in your research or teaching, please cite the accompanying textbook:
 
 ```bibtex
-@article{ting2024statistical,
+@article{ting2025statistical,
   title={Statistical Machine Learning for Astronomy},
   author={Ting, Yuan-Sen},
   journal={arXiv preprint arXiv:2506.12230},
-  year={2024}
+  year={2025}
 }
 ```
 
