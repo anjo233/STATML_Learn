@@ -8,7 +8,7 @@ These tutorials provide hands-on, practical implementations of the concepts cove
 
 ## Tutorials
 
-### Chapter 2: Bayesian Inference
+### Chapter 2a: Probabilistic Distribution
 - **File**: `tutorial_chapter2.ipynb`
 - **Topics**: Probability distributions, Poisson processes, maximum likelihood estimation, spatial statistics
 - **Application**: Detecting stellar clusters through statistical analysis of spatial point patterns
