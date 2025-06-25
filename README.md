@@ -37,6 +37,11 @@ We are currently in the process of cleaning up and standardizing all tutorials f
 - **Topics**: K-means clustering, K-means++ initialization, Gaussian Mixture Models, Expectation-Maximization algorithm, model selection with AIC/BIC
 - **Application**: Identifying stellar populations in the Sculptor dwarf galaxy through chemical abundance clustering to reveal episodic star formation history
 
+### Chapter 12: Sampling and Monte Carlo Methods
+- **File**: `tutorial_chapter12.ipynb`
+- **Topics**: Inverse transform sampling, rejection sampling, importance sampling, Monte Carlo integration, effective sample size
+- **Application**: Generating realistic stellar populations using the Kroupa Initial Mass Function and estimating population properties
+
 ## Prerequisites
 
 To run these tutorials, you'll need:
