@@ -28,6 +28,11 @@ These tutorials provide hands-on, practical implementations of the concepts cove
 - **Topics**: Bayesian inference for classification, Laplace approximation, predictive distributions, uncertainty quantification, prior specification
 - **Application**: Quantifying classification uncertainty for Red Clump vs Red Giant Branch stars with parameter uncertainty propagation
 
+### Chapter 11: K-means and Gaussian Mixture Models
+- **File**: `tutorial_chapter11.ipynb`
+- **Topics**: K-means clustering, K-means++ initialization, Gaussian Mixture Models, Expectation-Maximization algorithm, model selection with AIC/BIC
+- **Application**: Identifying stellar populations in the Sculptor dwarf galaxy through chemical abundance clustering to reveal episodic star formation history
+
 ## Prerequisites
 
 To run these tutorials, you'll need:
