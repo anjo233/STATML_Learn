@@ -13,7 +13,7 @@ We are currently in the process of cleaning up and standardizing all tutorials. 
 ## Available Tutorials
 
 ### Chapter 2a: Probabilistic Distribution
-- **File**: `tutorial_chapter2a.ipynb`
+- **File**: `tutorial_chapter2.ipynb`
 - **Topics**: Probability distributions, Poisson processes, maximum likelihood estimation, spatial statistics
 - **Application**: Detecting stellar clusters through statistical analysis of spatial point patterns
 
@@ -52,6 +52,12 @@ We are currently in the process of cleaning up and standardizing all tutorials. 
 - **File**: `tutorial_chapter11.ipynb`
 - **Topics**: K-means clustering, K-means++ initialization, Gaussian Mixture Models, Expectation-Maximization algorithm, model selection with AIC/BIC
 - **Application**: Identifying stellar populations in the Sculptor dwarf galaxy through chemical abundance clustering to reveal episodic star formation history
+
+### Chapters 10-11: Dimensionality Reduction and Mixture Models for Quasar Spectral Analysis
+- **File**: `tutorial_chapter11b.ipynb`
+- **Topics**: Principal Component Analysis for extreme dimensionality reduction, physical interpretation of principal components, Gaussian Mixture Models in reduced parameter spaces, generative modeling for synthetic spectra, likelihood-based outlier detection
+- **Application**: Analyzing quasar spectra from simulated datasets and identifying unusual objects through probabilistic modeling
+  
 
 ### Chapter 12: Sampling and Monte Carlo Methods
 - **File**: `tutorial_chapter12.ipynb`
