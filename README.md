@@ -12,10 +12,16 @@ We are currently in the process of cleaning up and standardizing all tutorials. 
 
 ## Available Tutorials
 
-### Chapter 2: Probabilistic Distribution
-- **File**: `tutorial_chapter2.ipynb`
+### Chapter 2a: Probabilistic Distribution
+- **File**: `tutorial_chapter2a.ipynb`
 - **Topics**: Probability distributions, Poisson processes, maximum likelihood estimation, spatial statistics
 - **Application**: Detecting stellar clusters through statistical analysis of spatial point patterns
+
+### Chapter 2b: Bayesian Inference
+- **File**: `tutorial_chapter2b.ipynb`
+- **Topics**: Bayesian inference, likelihood functions, posterior distributions, marginalization over nuisance parameters, grid-based inference, uncertainty propagation
+- **Application**: Inferring binary star eccentricities from single-epoch velocity-position angle measurements
+  
 
 ### Chapter 3: Statistical Foundations and Summary Statistics
 - **File**: `tutorial_chapter3.ipynb`
