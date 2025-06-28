@@ -13,7 +13,7 @@ We are currently in the process of cleaning up and standardizing all tutorials. 
 ## Available Tutorials
 
 ### Chapter 2a: Probabilistic Distribution
-- **File**: `tutorial_chapter2.ipynb`
+- **File**: `tutorial_chapter2a.ipynb`
 - **Topics**: Probability distributions, Poisson processes, maximum likelihood estimation, spatial statistics
 - **Application**: Detecting stellar clusters through statistical analysis of spatial point patterns
 
@@ -49,7 +49,7 @@ We are currently in the process of cleaning up and standardizing all tutorials. 
 - **Application**: Analyzing galaxy morphology from Hyper Suprime-Cam images to identify fundamental patterns of variation and achieve efficient data compression
 
 ### Chapter 11: K-means and Gaussian Mixture Models
-- **File**: `tutorial_chapter11.ipynb`
+- **File**: `tutorial_chapter11a.ipynb`
 - **Topics**: K-means clustering, K-means++ initialization, Gaussian Mixture Models, Expectation-Maximization algorithm, model selection with AIC/BIC
 - **Application**: Identifying stellar populations in the Sculptor dwarf galaxy through chemical abundance clustering to reveal episodic star formation history
 
