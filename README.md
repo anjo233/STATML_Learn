@@ -28,7 +28,7 @@ We are currently in the process of cleaning up and standardizing all tutorials. 
 - **Topics**: Statistical moments, correlation functions, bootstrap methods, two-point statistics
 - **Application**: Detecting the Baryon Acoustic Oscillation signal in simulated cosmological data
 
-### Chapter 4: Linear Regression
+### Chapter 4a: Linear Regression
 - **File**: `tutorial_chapter4a.ipynb`
 - **Topics**: Maximum likelihood estimation for linear regression, regularization (L2/Ridge regression), feature engineering with basis functions, model evaluation with train/test splits
 - **Application**: Predicting stellar properties from APOGEE infrared spectra
