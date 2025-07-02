@@ -29,9 +29,14 @@ We are currently in the process of cleaning up and standardizing all tutorials. 
 - **Application**: Detecting the Baryon Acoustic Oscillation signal in simulated cosmological data
 
 ### Chapter 4: Linear Regression
-- **File**: `tutorial_chapter4.ipynb`
+- **File**: `tutorial_chapter4a.ipynb`
 - **Topics**: Maximum likelihood estimation for linear regression, regularization (L2/Ridge regression), feature engineering with basis functions, model evaluation with train/test splits
 - **Application**: Predicting stellar properties from APOGEE infrared spectra
+
+### Chapter 4b: Linear Regression
+- **File**: `tutorial_chapter4b.ipynb`
+- **Topics**: Calibration as regression, weighted least squares with heteroscedastic uncertainties, bootstrap uncertainty analysis, sparse design matrices
+- **Application**: Calibrating radial velocity measurements from telescope networks using standard stars to correct for systematic instrumental and atmospheric effects
 
 ### Chapter 7: Classification and Logistic Regression
 - **File**: `tutorial_chapter7.ipynb`
