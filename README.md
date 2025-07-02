@@ -43,6 +43,11 @@ We are currently in the process of cleaning up and standardizing all tutorials. 
 - **Topics**: Logistic regression, sigmoid transformation, gradient descent optimization, classification metrics, hyperparameter tuning
 - **Application**: Distinguishing Red Clump from Red Giant Branch stars using stellar parameters from APOGEE
 
+### Chapter 8: Multi-class Classification
+- **File**: `tutorial_chapter8.ipynb`
+- **Topics**: Softmax regression, multi-class logistic regression, cross-entropy loss, feature extraction from images, confusion matrices, classification metrics
+- **Application**: Classifying strong gravitational lensing features in James Webb Space Telescope images using pre-trained vision models and multi-class logistic regression
+
 ### Chapter 9: Bayesian Logistic Regression
 - **File**: `tutorial_chapter9.ipynb`
 - **Topics**: Bayesian inference for classification, Laplace approximation, predictive distributions, uncertainty quantification, prior specification
