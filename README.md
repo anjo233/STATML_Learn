@@ -40,7 +40,7 @@ We are currently in the process of cleaning up and standardizing all tutorials. 
 
 ### Chapter 5: Bayesian Linear Regression
 - **File**: `tutorial_chapter5.ipynb`
-- **Topics**: Bayesian linear regression, heteroscedastic noise modeling, conjugate priors, posterior distributions, predictive uncertainty quantification, model calibration, aleatoric and epistemic uncertainty decomposition
+- **Topics**: Bayesian linear regression, heteroscedastic noise modeling, conjugate priors, posterior distributions, predictive uncertainty quantification, model calibration, uncertainty decomposition
 - **Application**: Predicting stellar temperatures from APOGEE spectra with properly calibrated uncertainties, demonstrating how Bayesian methods provide principled uncertainty quantification beyond point estimates
 
 ### Chapter 7: Classification and Logistic Regression
