@@ -38,6 +38,11 @@ We are currently in the process of cleaning up and standardizing all tutorials. 
 - **Topics**: Calibration as regression, weighted least squares with heteroscedastic uncertainties, bootstrap uncertainty analysis, sparse design matrices
 - **Application**: Calibrating radial velocity measurements from telescope networks using standard stars to correct for systematic instrumental and atmospheric effects
 
+### Chapter 5: Bayesian Linear Regression
+- **File**: `tutorial_chapter5.ipynb`
+- **Topics**: Bayesian linear regression, heteroscedastic noise modeling, conjugate priors, posterior distributions, predictive uncertainty quantification, model calibration, aleatoric and epistemic uncertainty decomposition
+- **Application**: Predicting stellar temperatures from APOGEE spectra with properly calibrated uncertainties, demonstrating how Bayesian methods provide principled uncertainty quantification beyond point estimates
+
 ### Chapter 7: Classification and Logistic Regression
 - **File**: `tutorial_chapter7.ipynb`
 - **Topics**: Logistic regression, sigmoid transformation, gradient descent optimization, classification metrics, hyperparameter tuning
