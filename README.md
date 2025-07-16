@@ -83,6 +83,11 @@ We are currently in the process of cleaning up and standardizing all tutorials. 
 - **File**: `tutorial_chapter_13.ipynb`
 - **Topics**: Metropolis-Hastings algorithm, Gibbs sampling, convergence diagnostics (Geweke and Gelman-Rubin tests), autocorrelation analysis, effective sample size, proposal tuning, burn-in and thinning
 
+### Chapter 14a: Gaussian Process Regression
+- **File**: `tutorial_chapter_14a.ipynb`
+- **Topics**: Gaussian Process regression, kernel functions, marginal likelihood optimization, hyperparameter learning, Cholesky decomposition, predictive uncertainty quantification
+- **Application**: Analyzing Kepler stellar light curves to extract oscillation timescales through GP regression, revealing the relationship between stellar surface gravity and asteroseismic properties
+  
 ### Chapter 14b: Gaussian Process Classification
 - **File**: `tutorial_chapter_14b.ipynb`
 - **Topics**: Gaussian Process Classification, latent variable models, Laplace approximation, fixed-point iteration, kernel hyperparameter selection
