@@ -108,9 +108,8 @@ Each tutorial is self-contained and includes:
 - Theoretical background connecting to the textbook chapters
 - Step-by-step code implementations
 - Visualizations and interpretations
-- Exercises for further exploration
 
-The tutorials are designed to be worked through sequentially within each notebook, but can be adapted for classroom use or self-study.
+The tutorials are designed to be worked through sequentially within each notebook.
 
 ## Citation
 
