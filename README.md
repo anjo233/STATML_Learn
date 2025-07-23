@@ -93,6 +93,11 @@ We are currently in the process of cleaning up and standardizing all tutorials. 
 - **Topics**: Gaussian Process Classification, latent variable models, Laplace approximation, fixed-point iteration, kernel hyperparameter selection
 - **Application**: Star-galaxy separation using Gaia photometric colors, demonstrating how GP classification learns flexible nonlinear decision boundaries
 
+### Chapter 15a: Backpropagation and Introduction to PyTorch
+- **File**: `tutorial_chapter_15a.ipynb`
+- **Topics**: Backpropagation implementation from scratch, automatic differentiation, computational graphs, PyTorch tensors and autograd, optimizer comparison (SGD vs Adam), gradient flow visualization
+
+
 ## Prerequisites
 
 To run these tutorials, you'll need:
