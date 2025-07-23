@@ -97,6 +97,10 @@ We are currently in the process of cleaning up and standardizing all tutorials. 
 - **File**: `tutorial_chapter_15a.ipynb`
 - **Topics**: Backpropagation implementation from scratch, automatic differentiation, computational graphs, PyTorch tensors and autograd, optimizer comparison (SGD vs Adam), gradient flow visualization
 
+### Chapter 15b: Autoencoders for Nonlinear Dimension Reduction
+- **File**: `tutorial_chapter_15b.ipynb`
+- **Topics**: Autoencoder architecture, encoder-decoder networks, latent representations, latent space visualization, interpolation in latent space, anomaly detection through reconstruction error
+- **Application**: Analyzing galaxy morphology from Hyper Suprime-Cam images through nonlinear dimension reduction, demonstrating how autoencoders extend beyond PCA's linear constraints to capture complex morphological relationships
 
 ## Prerequisites
 
