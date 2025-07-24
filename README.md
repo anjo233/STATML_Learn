@@ -106,7 +106,12 @@ We are currently in the process of cleaning up and standardizing all tutorials. 
 - **File**: `tutorial_chapter_15c.ipynb`
 - **Topics**: Mixture Density Networks, conditional density estimation, probabilistic regression with neural networks, Gaussian mixture outputs, maximum likelihood training, multimodal predictions, uncertainty quantification
 - **Application**: Modeling stellar lithium abundance in open clusters as a function of effective temperature and age, demonstrating how MDNs capture both systematic trends and intrinsic astrophysical scatter that deterministic models miss
-  
+
+### Chapter 15d: Normalizing Flows
+- **File**: `tutorial_chapter_15d.ipynb`
+- **Topics**: Normalizing flows, RealNVP architecture, invertible neural networks, change of variables formula, Jacobian computation, coupling layers, likelihood-free inference, generative modeling
+- **Application**: Modeling the 13-dimensional chemical abundance distribution of stars from APOGEE survey data, demonstrating how normalizing flows learn complex multimodal distributions without parametric assumptions and enable both density estimation and sample generation
+
 ## Prerequisites
 
 To run these tutorials, you'll need:
