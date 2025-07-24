@@ -102,6 +102,11 @@ We are currently in the process of cleaning up and standardizing all tutorials. 
 - **Topics**: Autoencoder architecture, encoder-decoder networks, latent representations, latent space visualization, interpolation in latent space, anomaly detection through reconstruction error
 - **Application**: Analyzing galaxy morphology from Hyper Suprime-Cam images through nonlinear dimension reduction, demonstrating how autoencoders extend beyond PCA's linear constraints to capture complex morphological relationships
 
+### Chapter 15c: Mixture Density Networks
+- **File**: `tutorial_chapter_15c.ipynb`
+- **Topics**: Mixture Density Networks, conditional density estimation, probabilistic regression with neural networks, Gaussian mixture outputs, maximum likelihood training, multimodal predictions, uncertainty quantification
+- **Application**: Modeling stellar lithium abundance in open clusters as a function of effective temperature and age, demonstrating how MDNs capture both systematic trends and intrinsic astrophysical scatter that deterministic models miss
+  
 ## Prerequisites
 
 To run these tutorials, you'll need:
