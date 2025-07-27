@@ -132,7 +132,7 @@ The tutorials are designed to be worked through sequentially within each noteboo
 
 ## Citation
 
-If you find these resources useful in your research or teaching, please cite both the textbook and this tutorial repository.
+If you find these resources useful in your research or teaching, please cite the textbook or this tutorial repository.
 
 ### Textbook
 
