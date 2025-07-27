@@ -132,7 +132,9 @@ The tutorials are designed to be worked through sequentially within each noteboo
 
 ## Citation
 
-If you find these tutorials useful in your research or teaching, please cite the accompanying textbook:
+If you find these resources useful in your research or teaching, please cite both the textbook and this tutorial repository.
+
+### Textbook
 
 ```bibtex
 @article{ting2025statistical,
@@ -140,6 +142,22 @@ If you find these tutorials useful in your research or teaching, please cite the
   author={Ting, Yuan-Sen},
   journal={arXiv preprint arXiv:2506.12230},
   year={2025}
+}
+```
+
+### Tutorials
+
+```bibtex
+@software{ting_2025_16495692,
+  author       = {Ting, Yuan-Sen},
+  title        = {{tingyuansen/statml: Statistical Machine Learning 
+                 for Astronomy - Tutorials (v1.0)}},
+  month        = jul,
+  year         = 2025,
+  publisher    = {Zenodo},
+  version      = {v1.0},
+  doi          = {10.5281/zenodo.16495692},
+  url          = {https://doi.org/10.5281/zenodo.16495692}
 }
 ```
 
