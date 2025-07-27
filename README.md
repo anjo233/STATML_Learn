@@ -148,7 +148,7 @@ If you find these resources useful in your research or teaching, please cite the
 ### Tutorials
 
 ```bibtex
-@software{ting_2025_16495692,
+@software{ting2025statisticaltutorial,
   author       = {Ting, Yuan-Sen},
   title        = {{tingyuansen/statml: Statistical Machine Learning 
                  for Astronomy - Tutorials (v1.0)}},
